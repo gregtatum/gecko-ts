@@ -72,7 +72,7 @@ import { log } from 'utils.mjs';
 }
 
 {
-  // Typing example 3 - This is broken
+  // Typing example 4 - This is the fully working example, with a modified API.
   const lazyModules = ChromeUtils.defineModulesGetters4({
     module: `resource://utils.mjs`,
   });
