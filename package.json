@@ -1,0 +1,13 @@
+{
+  "name": "gecko-ts",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.mjs",
+  "scripts": {
+    "ts": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^4.6.4"
+  }
+}
